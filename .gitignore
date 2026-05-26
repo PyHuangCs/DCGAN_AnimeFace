@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environments
+venv/
+.env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training artifacts
+generated_images/
+weight/
+
+# Dataset
+data/
+
+# OS files
+.DS_Store
+Thumbs.db
